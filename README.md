@@ -17,7 +17,7 @@ Serwisy społecznościowe to serwisy, w których każdy użytkownik może stworz
 zewnętrzne (z ang. external social networking ESN) – otwarte (publiczne) i dostępne dla wszystkich użytkowników Internetu, umożliwiają im swobodną komunikację między sobą. Ich użytkownicy mogą wysyłać swoje zdjęcia oraz zaprzyjaźniać się z innymi użytkownikami, zwykle po tym, jak obie strony zaakceptują wysłaną wcześniej prośbę o dodanie do listy znajomych (z ang. friend request)oraz wewnętrzne (z ang. internal social networking ISN) – zamknięte (prywatne) społeczności składające się z grupy ludzi jednego miejsca pracy, stowarzyszenia, instytucji lub innej organizacji, a także stworzonej przez użytkownika ESN grupy zamkniętej, tzn. takiej, do której można się dostać jedynie poprzez zaproszenie od znajomego. Zazwyczaj serwisy społecznościowe umożliwiają kontrolę nad swoją prywatnością, tzn. użytkownicy mogą wybierać, co jest a co nie jest widoczne dla innych w ich profilu oraz to, kto może ich profil przeglądać lub się z nimi kontaktować. 
 
 
-#DANE
+# DANE
 Istnieją różne portale społecznościowe. Korzysta z nich wiele osób.
 |                              | Facebook | Tiktok | Instagram |
 |------------------------------|----------|--------|-----------|
@@ -26,4 +26,3 @@ Istnieją różne portale społecznościowe. Korzysta z nich wiele osób.
 | możliwość wstawiania  filmów | Tak      | Tak    | Tak       |
 
 
-#Obrazy
