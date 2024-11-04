@@ -1,4 +1,4 @@
-#TEAM
+# TEAM
 1. * Emilia Delimata
    * imchocoe
    * 2, 3, 6
