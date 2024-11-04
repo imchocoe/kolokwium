@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portale_społecznościowe>
+    <instagram>
+        <cechy>
+            <cecha>udostępnianie zdjęć</cecha>
+            <cecha>możliwość konwersacji</cecha>
+            <cecha>komentowanie</cecha>
+            <cecha>udostępnianie stories</cecha>
+        </cechy>
+    </instagram>
+    <facebook>
+        <cechy>
+            <cecha>komentowanie</cecha>
+            <cecha>udostępnianie zdjęć</cecha>
+            <cecha>dodatkowa aplikacja do konwersacji</cecha>
+            <cecha>dodawanie znajomych</cecha>
+        </cechy>
+    </facebook>
+    <snapchat>
+        <cechy>
+            <cecha>wysylanie zdjęć</cecha>
+            <cecha>wysyłanie wiadomości</cecha>
+            <cecha>udostępnianie stories</cecha>
+            <cecha>lokalizacja</cecha>
+        </cechy>
+    </snapchat>
+    <tiktok>
+        <cechy>
+            <cecha>filmy</cecha>
+            <cecha>zdjęcia</cecha>
+            <cecha>komentowanie</cecha>
+            <cecha>mozliwość konwersacji</cecha>
+        </cechy>
+    </tiktok>
+    <pinterest>
+        <cechy>
+            <cecha>zdjęcia</cecha>
+            <cecha>filmy</cecha>
+            <cecha>komentowanie</cecha>
+            <cecha>inspiracja</cecha>
+        </cechy>
+    </pinterest>
+    <x>
+        <cechy>
+            <cecha>zdjęcia</cecha>
+            <cecha>komentarze</cecha>
+            <cecha>polubienia</cecha>
+            <cecha>reposty</cecha>
+        <cechy>
+    </x>
+</portale_społecznościowe>
+    
+
