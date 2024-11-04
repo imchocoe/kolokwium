@@ -1,0 +1,45 @@
+[
+    {
+        "name": "YouTube",
+        "founded": 2005,
+        "ceo": "Neal Mohan",
+        "url": "youtube.com",
+        "country of origin": "United States"
+    },
+    {
+        "name": "X",
+        "founded": 2006,
+        "ceo": "Linda Yaccharino",
+        "url": "x.com",
+        "country of origin": "United States"
+
+    },
+    {
+        "name": "Pinterest",
+        "founded": 2010,
+        "ceo": "Bill Ready",
+        "url": "pinterest.com",
+        "country of origin": "United States" 
+    },
+    {
+        "name": "TikTok",
+        "founded": 2016,
+        "ceo": "Shou Zi Chew",
+        "url": "tiktok.com",
+        "country of origin": "China"
+    },
+    {
+        "name": "Instagram",
+        "founded": 2010,
+        "ceo": "Adam Mosseri",
+        "url": "instagram.com",
+        "country of origin": "United States"
+    },
+    {
+        "name": "LinkedIn",
+        "founded": 2003,
+        "ceo": "Ryan Roslansky",
+        "url": "linkedin.com",
+        "country of origin": "United States"
+    }
+]
